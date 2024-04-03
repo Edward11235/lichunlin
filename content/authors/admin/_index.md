@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 李春霖
+title: Chunlin Li
 
 # Name pronunciation (optional)
-name_pronunciation: Chunlin Li
+# name_pronunciation: Chunlin Li
 
 # Full name (for SEO)
-first_name: Chunlin
-last_name: Li
+# first_name: Chunlin
+# last_name: Li
 
 # Status emoji
 status:
