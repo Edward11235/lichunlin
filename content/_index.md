@@ -90,7 +90,7 @@ sections:
           company_logo: org-x
           location: Toronto, Ontario, Canada
           date_start: '2023-01-01'
-          date_end: 'Now'
+          date_end: '2024-06-01'
           description: |2-
               * Working on computer vision and real-time 3D reconstruction projects (SLAM, NeRF, 3DGS).
               * Implement and open-source Packet for real-time image transmission.
