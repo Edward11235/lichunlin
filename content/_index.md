@@ -62,34 +62,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 
-          company: 
-          company_url: ''
+        - title: Research Intern (80% full-time internship)
+          company: Marine Robotics Lab (University of Wisconsin)
+          company_url: 'https://mrl.engr.wisc.edu/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Madison, Wisconsin, USA
+          date_start: '2024-06-01'
+          date_end: '2024-09-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Research on control algorithm of autonomous surface vessel (ASV)
+              * Design my omnidirectional vessel called "the Ontario"
+              * Supervise by Prof. Wei Wang
+        - title: Machine Learning Research Engineer (full-time internship)
+          company: Noah's Ark Lab, Huawei Canada
+          company_url: 'https://dev3.noahlab.com.hk/'
+          company_logo: org-gc
+          location: Markham, Ontario, Canada
+          date_start: '2023-05-01'
+          date_end: '2024-06-01'
+          description: |2-
+              * Research on control and planning of autonomous driving vehicles.
+              * Participate in Carla competition with my team and worked on perception module and motion prediction. 
+              * Propose autonomous driving constraint learning algorithm with Prof. Pascal Poupart's modified MaxEnt formulation.
         - title: Research Intern
-          company: embARC Research Group
+          company: embARC Research Group (University of Toronto)
           company_url: 'https://www.embarclab.com/'
           company_logo: org-x
           location: Toronto, Ontario, Canada
-          date_start: '2022-05-01'
-          date_end: '2022-09-01'
+          date_start: '2023-01-01'
+          date_end: 'Now'
           description: |2-
               * Working on computer vision and real-time 3D reconstruction projects (SLAM, NeRF, 3DGS).
               * Implement and open-source Packet for real-time image transmission.
@@ -100,8 +101,8 @@ sections:
           company_url: 'https://sunnybrook.ca/'
           company_logo: org-x
           location: Remote (office in Toronto, Ontario, Canada)
-          date_start: '2022-05-01'
-          date_end: '2022-09-01'
+          date_start: '2023-01-01'
+          date_end: '2023-12-01'
           description: |2-
               * Designing ML archetecture to classify patients' sleeping stage.
               * Designing signal alignment (synchronization) algorithm for signals from multiple sensors.
@@ -118,7 +119,7 @@ sections:
               * Worked in Netguard Base Platform team to write bash scripts that can automatically finish operations for our customer like automation migration tool. 
               * Used kubernetes and helm to manage our software on server and learnt to use DevOps tools like Jira and Jenkins.
         - title: Research Asistant
-          company: Robot Vision and Learning Lab
+          company: Robot Vision and Learning Lab (University of Toronto)
           company_url: 'https://rvl.cs.toronto.edu/'
           company_logo: org-gc
           location: Mississauga, Ontario, Canada
