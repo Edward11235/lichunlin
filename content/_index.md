@@ -83,17 +83,40 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
-
+        - title: Research Intern
+          company: embARC Research Group
+          company_url: 'https://www.embarclab.com/'
+          company_logo: org-x
+          location: Toronto, Ontario, Canada
+          date_start: '2022-05-01'
+          date_end: '2022-09-01'
+          description: |2-
+              * Working on computer vision and real-time 3D reconstruction projects (SLAM, NeRF, 3DGS).
+              * Implement and open-source Packet for real-time image transmission.
+              * Design framework for resource-constraint devices to leverage computer perception algorithm.
+              * Working with Ruofan Liang, supervised by Prof. Nandita Vijaykumar
+        - title: Machine Learning Researcher
+          company: Sunnybrook Health Science Center
+          company_url: 'https://sunnybrook.ca/'
+          company_logo: org-x
+          location: Remote (office in Toronto, Ontario, Canada)
+          date_start: '2022-05-01'
+          date_end: '2022-09-01'
+          description: |2-
+              * Designing ML archetecture to classify patients' sleeping stage.
+              * Designing signal alignment (synchronization) algorithm for signals from multiple sensors.
+              * Wrote scripts to use ComputeCanada to train our model.
+              * Supervised by Prof. Andrew Lim.
         - title: Automation Developer (full-time internship)
           company: Nokia
           company_url: 'https://www.nokia.com/'
           company_logo: org-x
-          location: Remote (office in Ottowa, Ontario)
+          location: Remote (office in Ottowa, Ontario, Canada)
           date_start: '2022-05-01'
           date_end: '2022-09-01'
-          description: 
-          * Worked in Netguard Base Platform team to write bash scripts that can automatically finish operations for our customer like automation migration tool. 
-          * Used kubernetes and helm to manage our software on server and learnt to use DevOps tools like Jira and Jenkins.
+          description: |2-
+              * Worked in Netguard Base Platform team to write bash scripts that can automatically finish operations for our customer like automation migration tool. 
+              * Used kubernetes and helm to manage our software on server and learnt to use DevOps tools like Jira and Jenkins.
         - title: Research Asistant
           company: Robot Vision and Learning Lab
           company_url: 'https://rvl.cs.toronto.edu/'
@@ -101,10 +124,10 @@ sections:
           location: Mississauga, Ontario, Canada
           date_start: '2021-09-01'
           date_end: '2021-12-31'
-          description: 
-          * Worked on boat environment monitoring project in order to model the distribution of the pollutant on the Lake Ontario. 
-          * Developed visualization program with React.js, Robot Operating System, Python, socketio, and Clearpath Heron USV.
-          * Supervised by Prof. Florian Shkurti and Prof. Tim Barfoot
+          description: |2-
+              * Worked on boat environment monitoring project in order to model the distribution of the pollutant on the Lake Ontario. 
+              * Developed visualization program with React.js, Robot Operating System, Python, socketio, and Clearpath Heron USV.
+              * Supervised by Prof. Florian Shkurti and Prof. Tim Barfoot
 
     design:
       columns: '2'
