@@ -111,8 +111,9 @@ social:
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
+
+# Throughout the journey of implementing vessels, I formulate my research interests 
 highlight_name: true
 ---
 I am a fourth year student at University of Toronto studying CS and math. Since high school, my persuit has been to enable a autonomous vessel swarm to perform specific tasks including rubbish gathering, exploration, and environment monitoring. There are many key challenges for this goal, which span a wide range of research areas including autonomous driving, marine robotics, computer vision, and precision control. And these challenges motivates me to join different labs and projects for my undergraduate years. I am currently working with Prof. Wei Wang on control and planning algorithms of autonomous vessel and Prof. Nandita Vijaykumar on real-time 3d reconstruction.
 {style="text-align: justify;"}
-# Throughout the journey of implementing vessels, I formulate my research interests 
