@@ -42,28 +42,28 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #  content:
+  #    title: Skills
+  #    text: ''
+  #    # Choose a user to display skills from (a folder name within `content/authors/`)
+  #    username: admin
+  #  design:
+  #    columns: '1'
   - block: experience
     content:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Aug 2021
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: 
+          company: 
           company_url: ''
           company_logo: org-gc
           location: California
@@ -83,6 +83,29 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
+
+        - title: Automation Developer (full-time internship)
+          company: Nokia
+          company_url: 'https://www.nokia.com/'
+          company_logo: org-x
+          location: Remote (office in Ottowa, Ontario)
+          date_start: '2022-05-01'
+          date_end: '2022-09-01'
+          description: 
+          * Worked in Netguard Base Platform team to write bash scripts that can automatically finish operations for our customer like automation migration tool. 
+          * Used kubernetes and helm to manage our software on server and learnt to use DevOps tools like Jira and Jenkins.
+        - title: Research Asistant
+          company: Robot Vision and Learning Lab
+          company_url: 'https://rvl.cs.toronto.edu/'
+          company_logo: org-gc
+          location: Mississauga, Ontario, Canada
+          date_start: '2021-09-01'
+          date_end: '2021-12-31'
+          description: 
+          * Worked on boat environment monitoring project in order to model the distribution of the pollutant on the Lake Ontario. 
+          * Developed visualization program with React.js, Robot Operating System, Python, socketio, and Clearpath Heron USV.
+          * Supervised by Prof. Florian Shkurti and Prof. Tim Barfoot
+
     design:
       columns: '2'
   - block: accomplishments
