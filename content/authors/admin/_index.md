@@ -28,7 +28,7 @@ organizations:
 bio: My research interests
 
 # Interests to show in About widget
-interests:
+research interests:
   - Marine Robotics
   - Real-time 3D Reconstruction
   - Autonomous Driving
