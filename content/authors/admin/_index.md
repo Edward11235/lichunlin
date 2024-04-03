@@ -1,6 +1,6 @@
 ---
 # Display name
-title: #吳健雄
+title: 李春霖
 
 # Name pronunciation (optional)
 name_pronunciation: Chunlin Li
@@ -21,30 +21,24 @@ role: Machine Learning Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Toronto
+    url: https://www.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marine Robotics
+  - Real-time 3D Reconstruction
+  - Autonomous Driving
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science (with Math Minor)
+      institution: University of Toronto
+      year: 2020-2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
