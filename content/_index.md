@@ -154,8 +154,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           icon: edx
@@ -248,9 +247,9 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: publications
     content:
       title: Publications
-      id: publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
