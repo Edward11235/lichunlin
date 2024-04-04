@@ -152,7 +152,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplishments'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -176,16 +176,16 @@ sections:
           description: See our results at leaderboard 2.0 map track at https://leaderboard.carla.org/leaderboard/
           title: Top 1 in CARLA Autonomous Driving Challenge 2023 on Map Track
           url: https://leaderboard.carla.org/leaderboard/
-        # - date_end: ''
-        #   date_start: ''
-        #   description: Got Dean List for all four years and earn 1000 CAD scholarship for in-course performance.
-        #   title: Dean List and in-course scholar
-        #   url: 
-        # - date_end: ''
-        #   date_start: ''
-        #   description: Got Distinction awards in American Math Contest, Euclid Math Contest, and Third prize in Chinese High School Math Tournament.
-        #   title: Math Competition Prizes
-        #   url: 
+        - date_end: '2020-09-01'
+          date_start: '2025-06-30'
+          description: Got Dean List for all four years and earn 1000 CAD scholarship for in-course performance.
+          title: Dean List and in-course scholar
+          url: 
+        - date_end: ''
+          date_start: '2018-09-01'
+          description: Got Distinction awards in American Math Contest, Euclid Math Contest, and Third prize in Chinese High School Math Tournament.
+          title: Math Competition Prizes
+          url: 
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
