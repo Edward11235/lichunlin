@@ -176,8 +176,8 @@ sections:
           description: See our results at leaderboard 2.0 map track at https://leaderboard.carla.org/leaderboard/
           title: Top 1 in CARLA Autonomous Driving Challenge 2023 on Map Track
           url: https://leaderboard.carla.org/leaderboard/
-        - date_end: '2020-09-01'
-          date_start: '2025-06-30'
+        - date_end: '2025-06-30'
+          date_start: '2020-09-01'
           description: Got Dean List for all four years and earn 1000 CAD scholarship for in-course performance.
           title: Dean List and in-course scholar
           url: 
