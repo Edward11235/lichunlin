@@ -176,16 +176,16 @@ sections:
           description: See our results at leaderboard 2.0 map track at https://leaderboard.carla.org/leaderboard/
           title: Top 1 in CARLA Autonomous Driving Challenge 2023 on Map Track
           url: https://leaderboard.carla.org/leaderboard/
-        - date_end: ''
-          date_start: ''
-          description: Got Dean List for all four years and earn 1000 CAD scholarship for in-course performance.
-          title: Dean List and in-course scholar
-          url: 
-        - date_end: ''
-          date_start: ''
-          description: Got Distinction awards in American Math Contest, Euclid Math Contest, and Third prize in Chinese High School Math Tournament.
-          title: Math Competition Prizes
-          url: 
+        # - date_end: ''
+        #   date_start: ''
+        #   description: Got Dean List for all four years and earn 1000 CAD scholarship for in-course performance.
+        #   title: Dean List and in-course scholar
+        #   url: 
+        # - date_end: ''
+        #   date_start: ''
+        #   description: Got Distinction awards in American Math Contest, Euclid Math Contest, and Third prize in Chinese High School Math Tournament.
+        #   title: Math Competition Prizes
+        #   url: 
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
