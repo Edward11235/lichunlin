@@ -137,14 +137,14 @@ sections:
     id: publications
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      # filters:
+      #   folders:
+      #     - publication
+      #   exclude_featured: true
     design:
       columns: '2'
       view: citation
@@ -162,32 +162,39 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+        # - certificate_url: https://www.coursera.org
+        #   date_end: ''
+        #   date_start: '2021-01-25'
+        #   description: ''
+        #   icon: coursera
+        #   organization: Coursera
+        #   organization_url: https://www.coursera.org
+        #   title: Neural Networks and Deep Learning
+        #   url: ''
         - date_end: '2023-07-01'
           date_start: '2023-11-01'
           description: See our results at leaderboard 2.0 map track at https://leaderboard.carla.org/leaderboard/
-          # icon: edx
-          # organization: edX
-          # organization_url: https://www.edx.org
           title: Top 1 in CARLA Autonomous Driving Challenge 2023 on Map Track
           url: https://leaderboard.carla.org/leaderboard/
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - date_end: ''
+          date_start: ''
+          description: Got Dean List for all four years and earn 1000 CAD scholarship for in-course performance.
+          title: Dean List and in-course scholar
+          url: 
+        - date_end: ''
+          date_start: ''
+          description: Got Distinction awards in American Math Contest, Euclid Math Contest, and Third prize in Chinese High School Math Tournament.
+          title: Math Competition Prizes
+          url: 
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   # - block: collection
