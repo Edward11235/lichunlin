@@ -132,6 +132,23 @@ sections:
 
     design:
       columns: '2'
+
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -154,14 +171,14 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-        - date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - date_end: '2023-07-01'
+          date_start: '2023-11-01'
+          description: See our results at leaderboard 2.0 map track at https://leaderboard.carla.org/leaderboard/
+          # icon: edx
+          # organization: edX
+          # organization_url: https://www.edx.org
+          title: Top 1 in CARLA Autonomous Driving Challenge 2023 on Map Track
+          url: https://leaderboard.carla.org/leaderboard/
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
@@ -246,21 +263,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+
   # - block: collection
   #   id: talks
   #   content:
