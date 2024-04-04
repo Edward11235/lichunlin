@@ -65,7 +65,7 @@ sections:
         - title: Research Intern (80% full-time internship)
           company: Marine Robotics Lab (University of Wisconsin)
           company_url: 'https://mrl.engr.wisc.edu/'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Madison, Wisconsin, USA
           date_start: '2024-06-01'
           date_end: '2024-09-01'
@@ -76,7 +76,7 @@ sections:
         - title: Machine Learning Research Engineer (full-time internship)
           company: Noah's Ark Lab, Huawei Canada
           company_url: 'https://dev3.noahlab.com.hk/'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Markham, Ontario, Canada
           date_start: '2023-05-01'
           date_end: '2024-06-01'
@@ -87,7 +87,7 @@ sections:
         - title: Research Intern
           company: embARC Research Group (University of Toronto)
           company_url: 'https://www.embarclab.com/'
-          company_logo: org-x
+          # company_logo: org-x
           location: Toronto, Ontario, Canada
           date_start: '2023-01-01'
           date_end: '2024-06-01'
@@ -99,7 +99,7 @@ sections:
         - title: Machine Learning Researcher
           company: Sunnybrook Health Science Center
           company_url: 'https://sunnybrook.ca/'
-          company_logo: org-x
+          # company_logo: org-x
           location: Remote (office in Toronto, Ontario, Canada)
           date_start: '2023-01-01'
           date_end: '2023-12-01'
@@ -111,7 +111,7 @@ sections:
         - title: Automation Developer (full-time internship)
           company: Nokia
           company_url: 'https://www.nokia.com/'
-          company_logo: org-x
+          # company_logo: org-x
           location: Remote (office in Ottowa, Ontario, Canada)
           date_start: '2022-05-01'
           date_end: '2022-09-01'
@@ -121,7 +121,7 @@ sections:
         - title: Research Asistant
           company: Robot Vision and Learning Lab (University of Toronto)
           company_url: 'https://rvl.cs.toronto.edu/'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Mississauga, Ontario, Canada
           date_start: '2021-09-01'
           date_end: '2021-12-31'
