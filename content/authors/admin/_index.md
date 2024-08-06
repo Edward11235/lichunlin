@@ -6,8 +6,8 @@ title: Chunlin Li
 # name_pronunciation: Chunlin Li
 
 # Full name (for SEO)
-# first_name: Chunlin
-# last_name: Li
+first_name: Chunlin
+last_name: Li
 
 # Status emoji
 status:
